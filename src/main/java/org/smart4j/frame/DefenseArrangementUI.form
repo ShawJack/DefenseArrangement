@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="org.smart4j.frame.DefenseArrangementUI">
+  <grid id="27dc6" binding="panel1" default-binding="true" layout-manager="GridLayoutManager" row-count="5" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="1" left="1" bottom="1" right="1"/>
+    <constraints>
+      <xy x="20" y="20" width="598" height="293"/>
+    </constraints>
+    <properties>
+      <background color="-2694167"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <grid id="866ef" layout-manager="GridLayoutManager" row-count="1" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+        <margin top="0" left="0" bottom="0" right="0"/>
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-3287074"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <component id="fbf72" class="javax.swing.JButton" binding="button1" default-binding="true">
+            <constraints>
+              <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <background color="-2171170"/>
+              <font name="YaHei Consolas Hybrid"/>
+              <text value="专家名单"/>
+            </properties>
+          </component>
+          <component id="88578" class="javax.swing.JTextField" binding="textField1" default-binding="true">
+            <constraints>
+              <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                <preferred-size width="150" height="-1"/>
+              </grid>
+            </constraints>
+            <properties>
+              <background color="-2171170"/>
+              <editable value="false"/>
+              <font name="YaHei Consolas Hybrid"/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+      <grid id="bb606" layout-manager="GridLayoutManager" row-count="1" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+        <margin top="0" left="0" bottom="0" right="0"/>
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-3287074"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <component id="34730" class="javax.swing.JButton" binding="button2">
+            <constraints>
+              <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <background color="-2171170"/>
+              <font name="YaHei Consolas Hybrid"/>
+              <text value="课程名单"/>
+            </properties>
+          </component>
+          <component id="6220f" class="javax.swing.JTextField" binding="textField2" default-binding="true">
+            <constraints>
+              <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                <preferred-size width="150" height="-1"/>
+              </grid>
+            </constraints>
+            <properties>
+              <background color="-2171170"/>
+              <editable value="false"/>
+              <font name="YaHei Consolas Hybrid"/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+      <grid id="35013" layout-manager="GridLayoutManager" row-count="1" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+        <margin top="0" left="0" bottom="0" right="0"/>
+        <constraints>
+          <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-3287074"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <component id="c6c24" class="javax.swing.JButton" binding="button3">
+            <constraints>
+              <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <background color="-2171170"/>
+              <font name="YaHei Consolas Hybrid"/>
+              <text value="学生名册"/>
+            </properties>
+          </component>
+          <component id="f3ab" class="javax.swing.JTextField" binding="textField3" default-binding="true">
+            <constraints>
+              <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                <preferred-size width="150" height="-1"/>
+              </grid>
+            </constraints>
+            <properties>
+              <background color="-2171170"/>
+              <editable value="false"/>
+              <font name="YaHei Consolas Hybrid"/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+      <grid id="7e5bb" layout-manager="GridLayoutManager" row-count="1" column-count="4" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+        <margin top="0" left="0" bottom="0" right="0"/>
+        <constraints>
+          <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-3287074"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <component id="837bf" class="javax.swing.JTextField" binding="textField4" default-binding="true">
+            <constraints>
+              <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                <preferred-size width="150" height="-1"/>
+              </grid>
+            </constraints>
+            <properties>
+              <background color="-2171170"/>
+              <editable value="false"/>
+              <font name="YaHei Consolas Hybrid"/>
+            </properties>
+          </component>
+          <component id="35f77" class="javax.swing.JLabel">
+            <constraints>
+              <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <background color="-3287074"/>
+              <font name="YaHei Consolas Hybrid"/>
+              <foreground color="-16777216"/>
+              <text value="起始日期"/>
+            </properties>
+          </component>
+          <component id="58f31" class="javax.swing.JLabel">
+            <constraints>
+              <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <background color="-3287074"/>
+              <font name="YaHei Consolas Hybrid"/>
+              <foreground color="-16777216"/>
+              <text value="结束日期"/>
+            </properties>
+          </component>
+          <component id="20632" class="javax.swing.JTextField" binding="textField5" default-binding="true">
+            <constraints>
+              <grid row="0" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                <preferred-size width="150" height="-1"/>
+              </grid>
+            </constraints>
+            <properties>
+              <background color="-2171170"/>
+              <editable value="false"/>
+              <font name="YaHei Consolas Hybrid"/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+      <grid id="4e296" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="2">
+        <constraints>
+          <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-3287074"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <component id="bc73e" class="javax.swing.JButton" binding="button5">
+            <constraints/>
+            <properties>
+              <background color="-2171170"/>
+              <font name="YaHei Consolas Hybrid"/>
+              <text value="生成答辩安排"/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+    </children>
+  </grid>
+</form>
