@@ -68,7 +68,17 @@ org/
 存放各种工具类，比如文件读写工具、日期转换工具、统计数据获取工具、测试文件生成工具等
 
 ### 4.表格文件规范
+老师表：
+![image](https://github.com/ShawJack/DefenseArrangement/blob/master/xlsmodels/teacher.png)
 
+学生表
+![image](https://github.com/ShawJack/DefenseArrangement/blob/master/xlsmodels/student.png)
+
+课程表
+![image](https://github.com/ShawJack/DefenseArrangement/blob/master/xlsmodels/subjects.png)
+
+出差表
+![image](https://github.com/ShawJack/DefenseArrangement/blob/master/xlsmodels/business.png)
 
 
 
